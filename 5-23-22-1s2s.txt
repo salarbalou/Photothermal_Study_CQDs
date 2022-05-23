@@ -1,0 +1,662 @@
+Please wait for the temperature to reach 95
+0 , 27.04 , 0
+1 , 26.78 , 0
+2 , 26.53 , 0
+3 , 26.53 , 0
+4 , 26.53 , 0
+5 , 26.53 , 0
+6 , 26.78 , 0
+7 , 26.27 , 0
+8 , 26.02 , 0
+9 , 26.02 , 0
+10 , 53.06 , 0
+11 , 63.01 , 0
+12 , 63.78 , 0
+13 , 63.78 , 0
+14 , 61.99 , 0
+15 , 61.74 , 0
+16 , 65.31 , 0
+17 , 68.37 , 0
+18 , 70.92 , 0
+19 , 73.48 , 0
+20 , 76.28 , 0
+21 , 78.07 , 0
+22 , 80.62 , 0
+23 , 82.92 , 0
+24 , 84.70 , 0
+25 , 85.98 , 0
+26 , 88.53 , 0
+27 , 90.32 , 0
+28 , 91.34 , 0
+29 , 92.61 , 0
+30 , 94.40 , 0
+Temperature has reached 95, please wait 60s for the initial denaturing to complete
+31 , 95.93 , 0
+Initial Denaturing has completed, Amplification Loop will start now
+Going to Denaturing Temperature
+Denaturing DNA Now
+32 , 101.29 , 1
+33 , 99.50 , 1
+Going to Extension Temperature
+34 , 98.48 , 1
+35 , 85.21 , 1
+36 , 80.62 , 1
+37 , 76.28 , 1
+Extending DNA Now
+38 , 72.20 , 1
+39 , 68.63 , 1
+40 , 68.63 , 1
+41 , 70.92 , 1
+Going to Denaturing Temperature
+42 , 71.43 , 2
+43 , 83.43 , 2
+44 , 85.98 , 2
+45 , 88.79 , 2
+46 , 90.83 , 2
+47 , 92.87 , 2
+48 , 94.65 , 2
+Denaturing DNA Now
+49 , 96.44 , 2
+Going to Extension Temperature
+50 , 97.97 , 2
+51 , 81.90 , 2
+52 , 78.07 , 2
+53 , 73.99 , 2
+Extending DNA Now
+54 , 70.41 , 2
+55 , 70.92 , 2
+56 , 72.97 , 2
+Going to Denaturing Temperature
+57 , 73.22 , 3
+58 , 84.96 , 3
+59 , 87.51 , 3
+60 , 89.55 , 3
+61 , 91.85 , 3
+62 , 93.38 , 3
+63 , 95.16 , 3
+Denaturing DNA Now
+64 , 97.20 , 3
+65 , 96.18 , 3
+Going to Extension Temperature
+66 , 97.20 , 3
+67 , 83.17 , 3
+68 , 78.58 , 3
+69 , 75.01 , 3
+Extending DNA Now
+70 , 71.18 , 3
+71 , 67.61 , 3
+72 , 68.37 , 3
+73 , 70.67 , 3
+Going to Denaturing Temperature
+74 , 71.43 , 4
+75 , 82.66 , 4
+76 , 85.98 , 4
+77 , 88.27 , 4
+78 , 89.81 , 4
+79 , 92.36 , 4
+80 , 93.63 , 4
+81 , 95.16 , 4
+Denaturing DNA Now
+82 , 97.20 , 4
+83 , 96.44 , 4
+Going to Extension Temperature
+84 , 97.20 , 4
+85 , 82.66 , 4
+86 , 78.58 , 4
+87 , 75.01 , 4
+Extending DNA Now
+88 , 71.18 , 4
+89 , 67.61 , 4
+90 , 67.86 , 4
+91 , 70.92 , 4
+Going to Denaturing Temperature
+92 , 71.18 , 5
+93 , 83.17 , 5
+94 , 85.98 , 5
+95 , 88.02 , 5
+96 , 89.55 , 5
+97 , 92.10 , 5
+98 , 94.14 , 5
+Denaturing DNA Now
+99 , 95.67 , 5
+Going to Extension Temperature
+100 , 96.95 , 5
+101 , 80.88 , 5
+102 , 76.79 , 5
+Extending DNA Now
+103 , 72.97 , 5
+104 , 68.88 , 5
+105 , 69.90 , 5
+106 , 72.20 , 5
+Going to Denaturing Temperature
+107 , 72.46 , 6
+108 , 84.45 , 6
+109 , 87.25 , 6
+110 , 88.79 , 6
+111 , 91.08 , 6
+112 , 92.87 , 6
+113 , 94.40 , 6
+Denaturing DNA Now
+114 , 95.93 , 6
+Going to Extension Temperature
+115 , 97.20 , 6
+116 , 81.13 , 6
+117 , 77.05 , 6
+118 , 73.48 , 6
+Extending DNA Now
+119 , 69.65 , 6
+120 , 70.41 , 6
+121 , 72.71 , 6
+Going to Denaturing Temperature
+122 , 72.71 , 7
+123 , 85.21 , 7
+124 , 87.76 , 7
+125 , 89.81 , 7
+126 , 91.34 , 7
+127 , 93.38 , 7
+128 , 94.91 , 7
+Denaturing DNA Now
+129 , 96.44 , 7
+Going to Extension Temperature
+130 , 97.72 , 7
+131 , 81.64 , 7
+132 , 77.81 , 7
+133 , 73.99 , 7
+Extending DNA Now
+134 , 69.90 , 7
+135 , 70.41 , 7
+136 , 72.97 , 7
+Going to Denaturing Temperature
+137 , 72.97 , 8
+138 , 84.70 , 8
+139 , 87.25 , 8
+140 , 88.79 , 8
+141 , 90.57 , 8
+142 , 92.36 , 8
+143 , 94.14 , 8
+Denaturing DNA Now
+144 , 95.16 , 8
+Going to Extension Temperature
+145 , 96.44 , 8
+146 , 80.88 , 8
+147 , 76.79 , 8
+Extending DNA Now
+148 , 72.97 , 8
+149 , 69.14 , 8
+150 , 69.90 , 8
+151 , 72.46 , 8
+Going to Denaturing Temperature
+152 , 72.20 , 9
+153 , 84.19 , 9
+154 , 86.49 , 9
+155 , 88.79 , 9
+156 , 90.83 , 9
+157 , 93.12 , 9
+158 , 94.40 , 9
+Denaturing DNA Now
+159 , 95.93 , 9
+Going to Extension Temperature
+160 , 97.46 , 9
+161 , 81.13 , 9
+162 , 77.05 , 9
+163 , 73.22 , 9
+Extending DNA Now
+164 , 69.65 , 9
+165 , 70.16 , 9
+166 , 71.95 , 9
+Going to Denaturing Temperature
+167 , 72.46 , 10
+168 , 84.45 , 10
+169 , 87.00 , 10
+170 , 89.30 , 10
+171 , 91.34 , 10
+172 , 92.87 , 10
+173 , 94.65 , 10
+Denaturing DNA Now
+174 , 95.93 , 10
+Going to Extension Temperature
+175 , 97.46 , 10
+176 , 81.13 , 10
+177 , 77.05 , 10
+178 , 72.97 , 10
+Extending DNA Now
+179 , 69.90 , 10
+180 , 70.16 , 10
+181 , 72.20 , 10
+Going to Denaturing Temperature
+182 , 72.20 , 11
+183 , 83.94 , 11
+184 , 86.74 , 11
+185 , 88.53 , 11
+186 , 90.32 , 11
+187 , 92.36 , 11
+188 , 93.63 , 11
+189 , 95.42 , 11
+Denaturing DNA Now
+190 , 96.18 , 11
+191 , 95.67 , 11
+Going to Extension Temperature
+192 , 95.93 , 11
+193 , 82.41 , 11
+194 , 78.32 , 11
+195 , 74.24 , 11
+Extending DNA Now
+196 , 70.41 , 11
+197 , 66.84 , 11
+198 , 67.35 , 11
+199 , 69.90 , 11
+Going to Denaturing Temperature
+200 , 70.67 , 12
+201 , 82.41 , 12
+202 , 85.47 , 12
+203 , 87.76 , 12
+204 , 89.81 , 12
+205 , 91.59 , 12
+206 , 93.38 , 12
+207 , 94.91 , 12
+Denaturing DNA Now
+208 , 95.93 , 12
+Going to Extension Temperature
+209 , 97.72 , 12
+210 , 81.39 , 12
+211 , 77.56 , 12
+212 , 73.48 , 12
+Extending DNA Now
+213 , 70.16 , 12
+214 , 70.67 , 12
+215 , 72.46 , 12
+Going to Denaturing Temperature
+216 , 72.71 , 13
+217 , 83.68 , 13
+218 , 85.98 , 13
+219 , 87.76 , 13
+220 , 89.81 , 13
+221 , 91.34 , 13
+222 , 92.87 , 13
+223 , 94.40 , 13
+Denaturing DNA Now
+224 , 95.42 , 13
+Going to Extension Temperature
+225 , 96.18 , 13
+226 , 80.62 , 13
+227 , 76.79 , 13
+Extending DNA Now
+228 , 72.71 , 13
+229 , 69.14 , 13
+230 , 69.90 , 13
+231 , 71.95 , 13
+Going to Denaturing Temperature
+232 , 72.46 , 14
+233 , 84.19 , 14
+234 , 85.47 , 14
+235 , 87.51 , 14
+236 , 88.53 , 14
+237 , 90.06 , 14
+238 , 92.10 , 14
+239 , 93.12 , 14
+240 , 94.14 , 14
+Denaturing DNA Now
+241 , 95.42 , 14
+Going to Extension Temperature
+242 , 96.18 , 14
+243 , 80.88 , 14
+244 , 76.79 , 14
+Extending DNA Now
+245 , 72.97 , 14
+246 , 69.39 , 14
+247 , 69.65 , 14
+248 , 72.46 , 14
+Going to Denaturing Temperature
+249 , 72.46 , 15
+250 , 83.43 , 15
+251 , 84.70 , 15
+252 , 87.00 , 15
+253 , 88.79 , 15
+254 , 90.83 , 15
+255 , 92.10 , 15
+256 , 93.12 , 15
+257 , 95.16 , 15
+Denaturing DNA Now
+258 , 96.69 , 15
+259 , 95.67 , 15
+Going to Extension Temperature
+260 , 96.44 , 15
+261 , 81.90 , 15
+262 , 77.81 , 15
+263 , 73.99 , 15
+Extending DNA Now
+264 , 70.16 , 15
+265 , 71.18 , 15
+266 , 73.22 , 15
+Please wait for the temperature to reach 95
+266 , 35.46 , 0
+267 , 35.46 , 0
+268 , 48.73 , 0
+269 , 58.68 , 0
+270 , 62.76 , 0
+271 , 66.08 , 0
+272 , 68.88 , 0
+273 , 71.69 , 0
+274 , 73.48 , 0
+275 , 75.77 , 0
+276 , 77.56 , 0
+277 , 79.60 , 0
+278 , 81.13 , 0
+279 , 83.17 , 0
+280 , 84.96 , 0
+281 , 86.49 , 0
+282 , 88.02 , 0
+283 , 89.55 , 0
+284 , 91.08 , 0
+285 , 92.10 , 0
+286 , 93.38 , 0
+Temperature has reached 95, please wait 60s for the initial denaturing to complete
+287 , 94.65 , 0
+288 , 95.42 , 0
+Initial Denaturing has completed, Amplification Loop will start now
+Going to Denaturing Temperature
+Denaturing DNA Now
+289 , 96.95 , 1
+290 , 95.42 , 1
+Going to Extension Temperature
+291 , 95.67 , 1
+292 , 80.88 , 1
+293 , 77.05 , 1
+294 , 73.48 , 1
+Extending DNA Now
+295 , 69.14 , 1
+296 , 70.16 , 1
+297 , 71.95 , 1
+Going to Denaturing Temperature
+298 , 72.20 , 2
+299 , 83.94 , 2
+300 , 86.23 , 2
+301 , 88.53 , 2
+302 , 90.32 , 2
+303 , 91.85 , 2
+304 , 93.12 , 2
+305 , 94.14 , 2
+Denaturing DNA Now
+306 , 96.18 , 2
+Going to Extension Temperature
+307 , 96.95 , 2
+308 , 80.62 , 2
+309 , 77.05 , 2
+310 , 73.22 , 2
+Extending DNA Now
+311 , 69.39 , 2
+312 , 70.16 , 2
+313 , 72.46 , 2
+Going to Denaturing Temperature
+314 , 72.46 , 3
+315 , 84.45 , 3
+316 , 86.74 , 3
+317 , 88.79 , 3
+318 , 90.57 , 3
+319 , 91.59 , 3
+320 , 92.87 , 3
+321 , 94.40 , 3
+Denaturing DNA Now
+322 , 95.67 , 3
+Going to Extension Temperature
+323 , 96.18 , 3
+324 , 80.88 , 3
+325 , 77.05 , 3
+326 , 72.97 , 3
+Extending DNA Now
+327 , 69.14 , 3
+328 , 69.65 , 3
+329 , 72.46 , 3
+Going to Denaturing Temperature
+330 , 72.20 , 4
+331 , 83.94 , 4
+332 , 86.74 , 4
+333 , 88.27 , 4
+334 , 89.81 , 4
+335 , 91.08 , 4
+336 , 92.36 , 4
+337 , 93.63 , 4
+338 , 94.65 , 4
+Denaturing DNA Now
+339 , 95.42 , 4
+Going to Extension Temperature
+340 , 97.20 , 4
+341 , 80.62 , 4
+342 , 76.79 , 4
+Extending DNA Now
+343 , 72.71 , 4
+344 , 69.39 , 4
+345 , 69.90 , 4
+346 , 72.20 , 4
+Going to Denaturing Temperature
+347 , 72.20 , 5
+348 , 84.19 , 5
+349 , 86.23 , 5
+350 , 88.27 , 5
+351 , 90.32 , 5
+352 , 91.85 , 5
+353 , 92.87 , 5
+354 , 94.40 , 5
+Denaturing DNA Now
+355 , 95.67 , 5
+Going to Extension Temperature
+356 , 96.44 , 5
+357 , 80.37 , 5
+358 , 75.77 , 5
+Extending DNA Now
+359 , 72.46 , 5
+360 , 68.88 , 5
+361 , 69.65 , 5
+362 , 72.20 , 5
+Going to Denaturing Temperature
+363 , 71.69 , 6
+364 , 83.68 , 6
+365 , 86.23 , 6
+366 , 87.51 , 6
+367 , 89.04 , 6
+368 , 90.06 , 6
+369 , 92.10 , 6
+370 , 92.87 , 6
+371 , 93.89 , 6
+372 , 94.91 , 6
+Denaturing DNA Now
+373 , 95.67 , 6
+Going to Extension Temperature
+374 , 96.95 , 6
+375 , 81.13 , 6
+376 , 77.05 , 6
+377 , 73.73 , 6
+Extending DNA Now
+378 , 69.90 , 6
+379 , 69.90 , 6
+380 , 72.20 , 6
+Going to Denaturing Temperature
+381 , 72.20 , 7
+382 , 83.17 , 7
+383 , 85.72 , 7
+384 , 87.25 , 7
+385 , 88.02 , 7
+386 , 90.32 , 7
+387 , 91.08 , 7
+388 , 92.36 , 7
+389 , 93.89 , 7
+390 , 94.91 , 7
+Denaturing DNA Now
+391 , 95.93 , 7
+Going to Extension Temperature
+392 , 96.44 , 7
+393 , 81.13 , 7
+394 , 76.54 , 7
+Extending DNA Now
+395 , 72.97 , 7
+396 , 69.90 , 7
+397 , 70.16 , 7
+398 , 72.71 , 7
+Going to Denaturing Temperature
+399 , 72.71 , 8
+400 , 83.94 , 8
+401 , 86.74 , 8
+402 , 88.79 , 8
+403 , 90.32 , 8
+404 , 91.85 , 8
+405 , 93.12 , 8
+406 , 94.40 , 8
+Denaturing DNA Now
+407 , 95.93 , 8
+Going to Extension Temperature
+408 , 97.20 , 8
+409 , 81.13 , 8
+410 , 76.79 , 8
+Extending DNA Now
+411 , 73.48 , 8
+412 , 69.39 , 8
+413 , 70.16 , 8
+414 , 71.95 , 8
+Going to Denaturing Temperature
+415 , 72.46 , 9
+416 , 84.19 , 9
+417 , 86.74 , 9
+418 , 88.79 , 9
+419 , 90.06 , 9
+420 , 91.85 , 9
+421 , 93.12 , 9
+422 , 94.65 , 9
+Denaturing DNA Now
+423 , 95.93 , 9
+Going to Extension Temperature
+424 , 96.44 , 9
+425 , 80.11 , 9
+426 , 76.28 , 9
+Extending DNA Now
+427 , 72.46 , 9
+428 , 68.63 , 9
+429 , 69.90 , 9
+430 , 71.69 , 9
+Going to Denaturing Temperature
+431 , 71.69 , 10
+432 , 83.43 , 10
+433 , 85.98 , 10
+434 , 87.25 , 10
+435 , 89.30 , 10
+436 , 90.83 , 10
+437 , 92.36 , 10
+438 , 93.63 , 10
+439 , 95.42 , 10
+Denaturing DNA Now
+440 , 96.18 , 10
+441 , 95.42 , 10
+Going to Extension Temperature
+442 , 96.44 , 10
+443 , 80.88 , 10
+444 , 77.81 , 10
+445 , 73.73 , 10
+Extending DNA Now
+446 , 70.16 , 10
+447 , 70.67 , 10
+448 , 72.71 , 10
+Going to Denaturing Temperature
+449 , 72.71 , 11
+450 , 83.68 , 11
+451 , 86.23 , 11
+452 , 88.02 , 11
+453 , 89.30 , 11
+454 , 91.34 , 11
+455 , 92.61 , 11
+456 , 93.38 , 11
+457 , 94.14 , 11
+Denaturing DNA Now
+458 , 95.67 , 11
+Going to Extension Temperature
+459 , 96.18 , 11
+460 , 80.88 , 11
+461 , 76.79 , 11
+Extending DNA Now
+462 , 72.97 , 11
+463 , 69.39 , 11
+464 , 70.16 , 11
+465 , 72.46 , 11
+Going to Denaturing Temperature
+466 , 72.46 , 12
+467 , 84.19 , 12
+468 , 86.49 , 12
+469 , 88.27 , 12
+470 , 90.06 , 12
+471 , 91.34 , 12
+472 , 93.12 , 12
+473 , 94.14 , 12
+Denaturing DNA Now
+474 , 95.42 , 12
+Going to Extension Temperature
+475 , 96.44 , 12
+476 , 80.11 , 12
+477 , 76.03 , 12
+Extending DNA Now
+478 , 72.46 , 12
+479 , 68.63 , 12
+480 , 69.39 , 12
+481 , 71.69 , 12
+Going to Denaturing Temperature
+482 , 71.95 , 13
+483 , 83.43 , 13
+484 , 86.23 , 13
+485 , 87.76 , 13
+486 , 89.04 , 13
+487 , 91.08 , 13
+488 , 92.61 , 13
+489 , 93.89 , 13
+490 , 95.16 , 13
+Denaturing DNA Now
+491 , 96.44 , 13
+492 , 94.91 , 13
+Going to Extension Temperature
+493 , 95.67 , 13
+494 , 80.37 , 13
+495 , 77.30 , 13
+496 , 72.97 , 13
+Extending DNA Now
+497 , 69.39 , 13
+498 , 69.65 , 13
+499 , 72.97 , 13
+Going to Denaturing Temperature
+500 , 72.46 , 14
+501 , 84.45 , 14
+502 , 86.49 , 14
+503 , 87.51 , 14
+504 , 89.55 , 14
+505 , 90.83 , 14
+506 , 92.61 , 14
+507 , 93.89 , 14
+508 , 95.16 , 14
+Denaturing DNA Now
+509 , 96.44 , 14
+510 , 95.42 , 14
+Going to Extension Temperature
+511 , 95.42 , 14
+512 , 80.62 , 14
+513 , 77.05 , 14
+514 , 73.22 , 14
+Extending DNA Now
+515 , 69.65 , 14
+516 , 69.65 , 14
+517 , 71.69 , 14
+Going to Denaturing Temperature
+518 , -8.43 , 15
+519 , 83.68 , 15
+520 , 86.23 , 15
+521 , 87.76 , 15
+522 , 89.55 , 15
+523 , 90.83 , 15
+524 , 92.36 , 15
+525 , 93.63 , 15
+526 , 94.14 , 15
+Denaturing DNA Now
+527 , 94.91 , 15
+Going to Extension Temperature
+528 , 96.69 , 15
+529 , 80.11 , 15
+530 , 76.79 , 15
+Extending DNA Now
+531 , 72.20 , 15
+532 , 69.14 , 15
+533 , 69.90 , 15
+534 , 71.69 , 15
